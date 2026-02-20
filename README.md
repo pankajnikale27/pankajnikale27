@@ -4,9 +4,26 @@
 AWS | Terraform | Kubernetes | Docker | CI/CD | Jenkins | GitHub Actions | Ansible
 </h3>
 
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a192f,50:112240,100:233554&text=Hello%20Everyone%20👋&fontSize=40&fontColor=ccd6f6&animation=fadeIn&desc=Welcome%20to%20my%20DevOps%20GitHub%20Profile&descSize=20&descAlignY=70"/>
+---
 
+### ⚙️ End-to-End DevOps Workflow
 
+<p align="center">
+  👨‍💻 Developer →
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> →
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40"/> /
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40"/> →
+  <img src="https://skillicons.dev/icons?i=maven" height="40"/> /
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> →
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> →
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> →
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/> →
+  📊 Monitoring
+</p>
+
+<p align="center">
+  <b>Code → Build → Containerize → Orchestrate → Deploy → Monitor</b>
+</p>
 
 ---
 
