@@ -70,7 +70,9 @@ AWS | Terraform | Kubernetes | Docker | CI/CD | Jenkins | GitHub Actions | Ansib
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pankajnikale27&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
